@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 80px;
+}
+
+.button{
+    text-align: center;
+    color: white;
+    background-color: black;
+    max-width: 10%;
+    margin: 35vh auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    transition: 0.5s ease-in-out;
+}
+
+.button:hover{
+    cursor: pointer;
+    background: rgb(66, 66, 66);
+}
+
+body{
+    background-image: url('background.png');
+}
